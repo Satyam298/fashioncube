@@ -58,10 +58,9 @@ function Footer(props) {
           <div className="col-lg-12">
             <div className="footer_nav_container">
               <div className="cr">
-                ©2018 All Rights Reserverd. This template is made with{" "}
+                
                 <i className="fa fa-heart-o" aria-hidden="true"></i> by{" "}
                 <a href="https://quintuslabs.com/" target="_blank">
-                  Quintus Labs
                 </a>
               </div>
             </div>
